@@ -30,9 +30,10 @@
 /* Including needed modules to compile this module/procedure */
 #include "Cpu.h"
 #include "Events.h"
-#include "Pins1.h"
+#include "timer_events.h"
+#include "uart_events.h"
+#include "can_events.h"
 #include "TU1.h"
-#include "REDLED.h"
 #include "GREENLED.h"
 #include "AS1.h"
 #include "UART_RxBuff.h"

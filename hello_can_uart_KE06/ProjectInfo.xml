@@ -62,14 +62,15 @@
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/GREENLED.c</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/KSDK1.c</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/PE_LDD.c</PathName>
-      <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/Pins1.c</PathName>
-      <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/REDLED.c</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/TU1.c</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/UART_RxBuff.c</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Project_Settings/Startup_Code/startup.c</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Sources/Application.c</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Sources/Events.c</PathName>
+      <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Sources/can_events.c</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Sources/main.c</PathName>
+      <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Sources/timer_events.c</PathName>
+      <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Sources/uart_events.c</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Static_Code/System/CPU_Init.c</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Static_Code/System/Peripherals_Init.c</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Static_Code/System/Vectors.c</PathName>
@@ -90,13 +91,14 @@
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/PE_Error.h</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/PE_LDD.h</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/PE_Types.h</PathName>
-      <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/Pins1.h</PathName>
-      <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/REDLED.h</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/TU1.h</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/UART_RxBuff.h</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Generated_Code/Vectors_Config.h</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Sources/Application.h</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Sources/Events.h</PathName>
+      <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Sources/can_events.h</PathName>
+      <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Sources/timer_events.h</PathName>
+      <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Sources/uart_events.h</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Static_Code/IO_Map/MKE06Z4.h</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Static_Code/PDD/ADC_PDD.h</PathName>
       <PathName>/home/alejandro/workspace.kds/hello_can_uart_KE06/Static_Code/PDD/CMP_PDD.h</PathName>

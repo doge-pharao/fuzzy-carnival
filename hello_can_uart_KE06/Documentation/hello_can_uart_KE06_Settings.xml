@@ -132,7 +132,7 @@
       <GetDriverState v="don&amp;apos;t generate code" />
     </Methods>
     <Events>
-      <Event_module_name v="Events" />
+      <Event_module_name v="timer_events" />
       <event name="OnCounterRestart" v="generate code">
         <Event_procedure_name v="TU1_OnCounterRestart" />
       </event>
@@ -266,7 +266,7 @@
       <GetDriverState v="don&amp;apos;t generate code" />
     </Methods>
     <Events>
-      <Event_module_name v="Events" />
+      <Event_module_name v="uart_events" />
       <event name="OnBlockReceived" v="generate code">
         <Event_procedure_name v="AS1_OnBlockReceived" />
       </event>
@@ -467,7 +467,7 @@
       <GetDriverState v="don&amp;apos;t generate code" />
     </Methods>
     <Events>
-      <Event_module_name v="Events" />
+      <Event_module_name v="can_events" />
       <event name="OnFreeTxBuffer" v="generate code">
         <Event_procedure_name v="CAN1_OnFreeTxBuffer" />
       </event>
