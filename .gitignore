@@ -3,3 +3,4 @@ RemoteSystemsTempFiles/
 **/target
 **/Debug
 **/bin
+**/Generated_Code/*
