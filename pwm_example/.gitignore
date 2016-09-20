@@ -1,6 +1,8 @@
-**/target
-**/Debug
-**/bin
-**/Generated_Code
-**/Documentation
-**/.*.g_*
+/target/
+/Debug/
+/bin/
+/Documentation/
+/Generated_Code/
+/ProjectInfo.xml
+/Project_Settings/
+/.settings/

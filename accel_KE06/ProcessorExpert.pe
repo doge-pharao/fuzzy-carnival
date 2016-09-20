@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PEproject>
   <Header>
-    <Name>sender_can_uart_KE06</Name>
+    <Name>accel_KE06</Name>
     <SavedBy>Alejandro</SavedBy>
     <ModificationStamp>24</ModificationStamp>
     <Date>2016-05-10</Date>

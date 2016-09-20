@@ -1,7 +1,9 @@
 .metadata
 RemoteSystemsTempFiles/
-**/target
-**/Debug
-**/bin
-**/Generated_Code/*
+**/target/
+**/Debug/
+**/bin/
+**/Generated_Code/
+**/Documentation/
 **/.*.g_*
+**/.settings/
