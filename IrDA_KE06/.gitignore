@@ -1,1 +1,6 @@
-/Debug/
+**/target
+**/Debug
+**/bin
+**/Generated_Code
+**/Documentation
+**/.*.g_*
