@@ -1,0 +1,9 @@
+.metadata
+RemoteSystemsTempFiles/
+**/target/
+**/Debug/
+**/bin/
+**/Generated_Code/
+**/Documentation/
+**/.*.g_*
+**/.settings/
