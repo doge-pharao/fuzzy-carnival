@@ -7,3 +7,6 @@ RemoteSystemsTempFiles/
 **/Documentation/
 **/.*.g_*
 **/.settings/
+/Debug/
+/Documentation/
+/Generated_Code/
