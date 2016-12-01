@@ -29,17 +29,19 @@ static void SendString(const unsigned char *str, UART_Desc *desc) {
 static void Init(void) {
 	Frame.Data = rxbuffer; /* Set pointer to OutData buffer */
 
-	// Inicializacion UART
+	// Initialize UART
 	uartData.handle = AS1_Init(&uartData);
 	uartData.isSent = FALSE;
 	uartData.rxChar = '\0';
 	uartData.rxPutFct = UART_RxBuff_Put;
 
+	// Initialize CAN
 	canData.handle = CAN1_Init(&canData);
 	canData.isSent = FALSE;
 	canData.rxChar = '\0';
 	canData.rxPutFct = CAN_RxBuff_Put;
 
+	// Initial state of the PWM logic (Timer 2).
 	tu2Data.dutyUpdated = FALSE;
 	tu2Data.dutyUp = TRUE;
 	tu2Data.currentDuty = 0x0000;
